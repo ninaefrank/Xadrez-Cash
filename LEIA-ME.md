@@ -1,0 +1,1 @@
+# Jogo de Xadrez para Ganhos 🏆 Jogue xadrez e ganhe dinheiro com anúncios! ## Recursos - Jogabilidade completa de xadrez - Sistema de ganhos baseado em anúncios - Limites e recompensas diários - Design responsivo ## Jogue agora [Demonstração ao vivo](https://seuusername.github.io/chess-earnings-game)
